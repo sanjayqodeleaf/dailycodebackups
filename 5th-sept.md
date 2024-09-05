@@ -116,7 +116,7 @@ spec:
   2 Preemption is not helpful for scheduling.
 ```
 
-#### Went through multiple websites to dibugg the issue links below:
+#### Went through multiple websites to debug the issue links below:
 
 ```
    https://stackoverflow.com/questions/66351213/0-2-nodes-are-available-2-pod-has-unbound-immediate-persistentvolumeclaims
